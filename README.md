@@ -59,6 +59,6 @@ The platform is engineered around **provenance over performance**, guaranteeing 
             │                       │                       │
             ▼                       ▼                       ▼
 ┌──────────────────────┐ ┌────────────────────┐ ┌──────────────────────┐
-│  POSTGRESQL + PGVECTOR│ │ CLOUD STORAGE (S3) │ │   OPENAI / LLM RAG   │
+│ POSTGRESQL + PGVECTOR│ │ CLOUD STORAGE (S3) │ │   OPENAI / LLM RAG   │
 │ Structured & Vectors │ │ Audio, Photo, Video│ │ Speech-to-Text, Q&A  │
 └──────────────────────┘ └────────────────────┘ └──────────────────────┘
